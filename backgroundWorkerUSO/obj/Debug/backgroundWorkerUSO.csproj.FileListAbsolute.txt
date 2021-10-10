@@ -1,0 +1,10 @@
+C:\Users\Jhon Romero\source\repos\backgroundWorkerUSO\backgroundWorkerUSO\bin\Debug\backgroundWorkerUSO.exe.config
+C:\Users\Jhon Romero\source\repos\backgroundWorkerUSO\backgroundWorkerUSO\bin\Debug\backgroundWorkerUSO.exe
+C:\Users\Jhon Romero\source\repos\backgroundWorkerUSO\backgroundWorkerUSO\bin\Debug\backgroundWorkerUSO.pdb
+C:\Users\Jhon Romero\source\repos\backgroundWorkerUSO\backgroundWorkerUSO\obj\Debug\backgroundWorkerUSO.csproj.AssemblyReference.cache
+C:\Users\Jhon Romero\source\repos\backgroundWorkerUSO\backgroundWorkerUSO\obj\Debug\backgroundWorkerUSO.Form1.resources
+C:\Users\Jhon Romero\source\repos\backgroundWorkerUSO\backgroundWorkerUSO\obj\Debug\backgroundWorkerUSO.Properties.Resources.resources
+C:\Users\Jhon Romero\source\repos\backgroundWorkerUSO\backgroundWorkerUSO\obj\Debug\backgroundWorkerUSO.csproj.GenerateResource.cache
+C:\Users\Jhon Romero\source\repos\backgroundWorkerUSO\backgroundWorkerUSO\obj\Debug\backgroundWorkerUSO.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Romero\source\repos\backgroundWorkerUSO\backgroundWorkerUSO\obj\Debug\backgroundWorkerUSO.exe
+C:\Users\Jhon Romero\source\repos\backgroundWorkerUSO\backgroundWorkerUSO\obj\Debug\backgroundWorkerUSO.pdb
